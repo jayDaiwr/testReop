@@ -9,7 +9,7 @@ public class TestThread04 implements Runnable{
 
 	@Override
 	public void run() {
-		
+		System.out.println("hello");
 	}
 
 	
